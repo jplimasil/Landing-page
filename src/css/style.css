@@ -1,7 +1,13 @@
+html{
+    font-size: 62.5%;
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.616);
+}
+
 body{
     max-width: 1440px;
     margin: 0 auto;
     font-size: 1.6rem;
+    background-color: rgb(167, 165, 165);
 }
 
 .cabecalho{
@@ -174,4 +180,8 @@ body{
 
 .rodape .conteudo-de-baixo {
     margin-top: 40px;
+}
+
+.logo{
+    box-shadow: 2px 2px 5px black;
 }
